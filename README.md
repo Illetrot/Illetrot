@@ -2,5 +2,5 @@
 - 👀 I’m interested in desenvolvimento web, hardware
 - 🌱 I’m currently learning html, CSS, JavaScript...
 - 💞️ I’m looking to collaborate on projetos para web...
-- 📫 How to reach me email:m.a.illetrot@gmail.com
-
+- 📫 How to reach me email: m.a.illetrot@gmail.com
+                     discord: Marti#2161
